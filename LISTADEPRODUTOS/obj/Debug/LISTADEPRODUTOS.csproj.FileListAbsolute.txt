@@ -1,0 +1,7 @@
+C:\Users\Izabella\source\repos\LISTADEPRODUTOS\LISTADEPRODUTOS\bin\Debug\LISTADEPRODUTOS.exe.config
+C:\Users\Izabella\source\repos\LISTADEPRODUTOS\LISTADEPRODUTOS\bin\Debug\LISTADEPRODUTOS.exe
+C:\Users\Izabella\source\repos\LISTADEPRODUTOS\LISTADEPRODUTOS\bin\Debug\LISTADEPRODUTOS.pdb
+C:\Users\Izabella\source\repos\LISTADEPRODUTOS\LISTADEPRODUTOS\obj\Debug\LISTADEPRODUTOS.csprojAssemblyReference.cache
+C:\Users\Izabella\source\repos\LISTADEPRODUTOS\LISTADEPRODUTOS\obj\Debug\LISTADEPRODUTOS.csproj.CoreCompileInputs.cache
+C:\Users\Izabella\source\repos\LISTADEPRODUTOS\LISTADEPRODUTOS\obj\Debug\LISTADEPRODUTOS.exe
+C:\Users\Izabella\source\repos\LISTADEPRODUTOS\LISTADEPRODUTOS\obj\Debug\LISTADEPRODUTOS.pdb
